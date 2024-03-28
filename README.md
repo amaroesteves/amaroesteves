@@ -3,10 +3,12 @@
 Profissional de Tecnologia da Informação, graduando-se em 2012. Atuei como desenvolvedor Oracle, onde aprimorei minhas habilidades em bancos de dados e desenvolvimento de software. Atualmente, focado em desenvolvimento backend, concentrando-me na linguagem C#.
 </p>
 <hr/>
+<!--
 <div>
   <a href="https://github.com/amaroesteves">
   <img height:"180em" src="https://github-readme-stats.vercel.app/api?username=amaroesteves&show_icons=true&theme=dracula&include_all_commits=true&count_private_true"/>  
 </div>
+-->
 
 <hr/>
 <div>
